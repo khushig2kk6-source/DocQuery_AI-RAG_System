@@ -1,0 +1,12 @@
+Machine Learning (ML) is a subset of artificial intelligence (AI) that enables computers to learn from data and improve performance without being explicitly programmed. By identifying patterns in data, models can make predictions, classify information, or generate new content. It is used for tasks like image recognition, fraud detection, and personalized recommendations. 
+
+Key Concepts in Machine Learning
+Algorithms & Models: ML uses statistical techniques to build models that analyze data and identify hidden patterns.
+Training & Data: Models are "trained" on large datasets to learn, which allows them to make inferences about new, unseen data.
+Inference: Once trained, the model is deployed to make predictions or decisions on real-world, new input. 
+
+
+Main Types of Machine Learning
+ 1)Supervised Learning: The model is trained on labeled data (input data with known, correct output). It is commonly used for classification (categorizing data) and regression (predicting numerical values).
+ 2)Unsupervised Learning: The model finds hidden patterns or structures in unlabeled data. A key technique is clustering, which groups similar data points together.
+ 3)Reinforcement Learning: An agent learns to make decisions by trial-and-error, receiving rewards or penalties to maximize performance.

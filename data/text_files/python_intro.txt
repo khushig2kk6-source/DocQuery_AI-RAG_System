@@ -1,0 +1,6 @@
+Python is a popular, high-level, general-purpose programming language known for its simple, English-like syntax and emphasis on code readability. Created by Guido van Rossum in 1991, it is an excellent first language and is widely used across various fields, including web development, data science, AI/machine learning, and automation. 
+
+Key Features and Concepts:
+
+ 1)Readability and Simple Syntax: Python's design emphasizes clean, uncluttered syntax, often using English keywords where other languages might use punctuation. It uses indentation, rather than curly brackets, to define code blocks, which enforces a consistent and readable style.
+ 2)Interpreted Language: Python code is executed line by line at runtime by an interpreter, which makes for a quick development and prototyping cycle.
