@@ -1,1 +1,1 @@
-# DocQuery-AI---RAG-System
+# DocQuery AI - RAG System
